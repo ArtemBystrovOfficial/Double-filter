@@ -1,12 +1,12 @@
-# Double-filter  <br/>(cross-platform, startup)
+# Double-filter (cross-platform, startup)
 
 ![App_icon](https://user-images.githubusercontent.com/92841151/179056228-4edf99c4-cf7a-4b06-bca3-acb11aa3cc5b.png)
 ## About
-**Double-filter** - do you have two images: first before filter, and second after? You can make this filter,<br/> save, send, and open them, and of course use for any other images
+**Double-filter** - do you have `two` images: first before filter, and second after? You can `make` this filter,<br/> `save`, `send`, and `open` them, and of course `use` for any other images
 ## Rules (RUS)
 - Make filter or download from other sourse with extension `.dfil`
-- Filter size around 10-50 kb, this is a huge advantage, becouse you can make presents without knowing all the settings, third-party programs, you do not need to convert some presets from one program to another
-- Open image, use any filter, click to image for compare before and after
+- Filter size around `10-50 kb`, this is a huge advantage, becouse you can make presents without knowing all the settings, third-party programs, you do not need to convert some presets from one program to another
+- Open image, use any filter, `click` to image for compare before and after
 - Dowload app and learn about other techniques!
 
 ## Dowload
