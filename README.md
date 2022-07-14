@@ -10,7 +10,7 @@
 - Dowload app and learn about other techniques!
 
 ## Dowload
-Download `build` for speed run,
+Download `build` for speed run<br/>
 Download `sourse` and open in `Qt` for customise run
 ______
 ## Dependency diagram modules
