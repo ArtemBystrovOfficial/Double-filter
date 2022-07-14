@@ -14,8 +14,10 @@
  - Download `sourse` and open in `Qt` for customise run
 ______
 ## Dependency diagram modules
-
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/92841151/179055401-a32e335a-a35c-4695-a462-9fff71e5ec55.png)
 ## Screenshots
+![screen1](https://user-images.githubusercontent.com/92841151/179055659-510a408d-3472-405a-b82c-2e944962df9a.jpg)
+![screen2](https://user-images.githubusercontent.com/92841151/179055686-5a0942ac-f2ec-4fec-8995-003dcd92ef16.jpg)
 
 ## Feedback
 :email: bystrov.official.one@gmail.com
