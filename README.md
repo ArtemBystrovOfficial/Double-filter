@@ -1,6 +1,6 @@
-# Double-filter ![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B) <br/>(cross-platform, startup)
+# Double-filter ![App_icon](https://user-images.githubusercontent.com/92841151/179056228-4edf99c4-cf7a-4b06-bca3-acb11aa3cc5b.png) <br/>(cross-platform, startup)
 
-![App_icon](https://user-images.githubusercontent.com/92841151/179056228-4edf99c4-cf7a-4b06-bca3-acb11aa3cc5b.png)
+![](https://img.shields.io/badge/C++-Solutions-blue.svg?style=flat&logo=c%2B%2B)
 ## About
 **Double-filter** - do you have two images: first before filter, and second after? You can make this filter,<br/> save, send, and open them, and of course use for any other images
 ## Rules (RUS)
